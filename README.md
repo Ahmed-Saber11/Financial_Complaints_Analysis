@@ -14,7 +14,7 @@ Financial institutions receive thousands of complaints daily. This project provi
 - Analysis & ML: Python (Pandas, NumPy, Scikit-learn, XGBoost)
 - Visualizations: Plotly Express, Seaborn, Matplotlib
 - Business Intelligence: Power BI Desktop
-- Environment:Google Colab
+- Environment: Google Colab
 
 # Project Structure
 - Complaints_Analysis.ipynb: Detailed Jupyter Notebook featuring the data preprocessing, exploratory data analysis (EDA), and machine learning training.
@@ -31,9 +31,9 @@ Financial institutions receive thousands of complaints daily. This project provi
 - Data Preparation: Automated handling of missing values and applied LabelEncoder for categorical feature optimization.
 - Model Selection: Implemented XGBoostClassifier for its efficiency with structured data and handling of class imbalances.
 - Performance Metrics:
-    Accuracy: 96%
-    Weighted F1-Score: 0.95
-    Reliability: High precision across majority classes (e.g., "Closed with explanation").
+    - Accuracy: 96%
+    - Weighted F1-Score: 0.95
+    - Reliability: High precision across majority classes (e.g., "Closed with explanation").
 
 # Dashboard Preview
 The included .pbix file offers:
