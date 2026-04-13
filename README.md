@@ -1,4 +1,4 @@
-Financial Complaints Analysis & Classification
+## Financial Complaints Analysis & Classification
 An end-to-end data science and business intelligence project designed to analyze, visualize, and predict resolutions for consumer financial complaints. 
 This repository integrates a machine learning pipeline with a professional Power BI dashboard to transform raw complaint data into actionable insights.
 
